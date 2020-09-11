@@ -105,3 +105,6 @@
 </table>
 
 HeliPort GUI: https://github.com/OpenIntelWireless/HeliPort
+
+<hr>
+Contact me via Skype: https://join.skype.com/invite/XEowveSNAfM5
