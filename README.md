@@ -1,6 +1,6 @@
 # OpenCore for Asus ROG GL553VD on MacOs 11 Big Sur
 
-<strong>Current OpenCore version:</strong> <span style = "color: red;">0.6.1</span>
+<strong>Current OpenCore version:</strong> <span style = "color: red;">0.6.9</span>
 
 <table>
   <thead>
