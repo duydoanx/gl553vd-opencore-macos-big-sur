@@ -74,7 +74,7 @@
     <tr>
       <td>Wifi</td>
       <td>Intel AC7260</td>
-      <td>Working with HeliPort GUI</td>
+      <td>YES</td>
     </tr>
     <tr>
       <td>Bluetooth</td>
